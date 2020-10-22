@@ -1,5 +1,5 @@
 <a id="multi_object_tracking_"></a>
-## Multi Object Tracking | Google-Colab
+# Multi Object Tracking | Google-Colab <img alt="Colaboratory logo" width="55px" src="https://colab.research.google.com/img/colab_favicon_256px.png" align="center">
 Collection of papers, code, datasets, and other resources for multi object tracking | Google colab
 
 <a id="joint_detection_"></a>
@@ -147,3 +147,41 @@ Collection of papers, code, datasets, and other resources for multi object track
 [[pdf]](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/multi_object_tracking/baseline/High-Speed%20Tracking-by-Detection%20Without%20Using%20Image%20Information%20avss17.pdf)
 [[notes]](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/multi_object_tracking/notes/High-Speed%20Tracking-by-Detection%20Without%20Using%20Image%20Information%20avss17.pdf)
 [[code]](https://github.com/bochinski/iou-tracker)
+
+<a id="dataset_s_"></a>
+## MOT Datasets
+
+- [IDOT](https://www.cs.uic.edu/Bits/YanziJin)
+- [UA-DETRAC Benchmark Suite](http://detrac-db.rit.albany.edu/)
+- [GRAM Road-Traffic Monitoring](http://agamenon.tsc.uah.es/Personales/rlopez/data/rtm/)
+- [Stanford Drone Dataset](http://cvgl.stanford.edu/projects/uav_data/)
+- [Ko-PER Intersection Dataset](http://www.uni-ulm.de/in/mrm/forschung/datensaetze.html)
+- [TRANCOS](http://agamenon.tsc.uah.es/Personales/rlopez/data/trancos/)
+- [Urban Tracker](https://www.jpjodoin.com/urbantracker/dataset.html)
+- [DARPA VIVID / PETS 2005](http://vision.cse.psu.edu/data/vividEval/datasets/datasets.html) [Non stationary camera]
+- [KIT-AKS](http://i21www.ira.uka.de/image_sequences/) [No ground truth]
+- [CBCL StreetScenes Challenge Framework](http://cbcl.mit.edu/software-datasets/streetscenes/) [No top down viewpoint]
+- [MOT 2015](https://motchallenge.net/data/2D_MOT_2015/) [mostly street level viewpoint]
+- [MOT 2016](https://motchallenge.net/data/MOT16/) [mostly street level viewpoint]
+- [MOT 2017](https://motchallenge.net/data/MOT17/) [mostly street level viewpoint]
+- [MOT 2020](https://motchallenge.net/data/MOT20/) [mostly top down  viewpoint]
+- [MOTS: Multi-Object Tracking and Segmentation](https://www.vision.rwth-aachen.de/page/mots) [MOT and KITTI]
+- [CVPR 2019](https://motchallenge.net/data/11) [mostly street level viewpoint]
+- [PETS 2009](http://www.cvg.reading.ac.uk/PETS2009/a.html) [No vehicles]
+- [PETS 2017](https://motchallenge.net/data/PETS2017/) [Low density] [mostly pedestrians]
+- [DukeMTMC](http://vision.cs.duke.edu/DukeMTMC/) [multi camera] [static background] [pedestrians] [above-street level viewpoint] [website not working]
+- [KITTI Tracking Dataset](http://www.cvlibs.net/datasets/kitti/eval_tracking.php) [No top down viewpoint] [non stationary camera]
+- [The WILDTRACK Seven-Camera HD Dataset](https://cvlab.epfl.ch/data/data-wildtrack/) [pedestrian detection and tracking]
+- [3D Traffic Scene Understanding from Movable Platforms](http://www.cvlibs.net/projects/intersection/) [intersection traffic] [stereo setup] [moving camera]
+- [LOST : Longterm Observation of Scenes with Tracks](http://lost.cse.wustl.edu/) [top down and street level viewpoint] [no ground truth]
+- [JTA](http://imagelab.ing.unimore.it/imagelab/page.asp?IdPage=25) [top down and street level viewpoint] [synthetic/GTA 5] [pedestrian] [3D annotations]
+- [PathTrack: Fast Trajectory Annotation with Path Supervision](http://people.ee.ethz.ch/~daid/pathtrack/) [top down and street level viewpoint] [iccv17] [pedestrian] 
+- [CityFlow](https://www.aicitychallenge.org/) [pole mounted] [intersections] [vehicles] [re-id]  [cvpr19]
+- [UAVDT - The Unmanned Aerial Vehicle Benchmark: Object Detection and Tracking](https://sites.google.com/site/daviddo0323/projects/uavdt) [uav] [intersections/highways] [vehicles]  [eccv18]
+- [JackRabbot Dataset ](https://jrdb.stanford.edu/)  [RGBD] [head-on][indoor/outdoor][stanford]
+
+## Acknowledgements
+
+- Part of README.md is borrowed from the [Deep-Learning-for-Tracking-and-Detection](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection)
+check out this amazing github repo for other detection & tracking resources.
+
