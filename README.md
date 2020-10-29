@@ -24,10 +24,13 @@ Collection of papers, code, datasets, and other resources for multi object track
 
 * **Towards Real-Time Multi-Object Tracking**
 [ax1909]
+[[arxiv]](https://arxiv.org/abs/1909.12605)
 [[pdf]](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/multi_object_tracking/joint_detection/Towards%20Real-Time%20Multi-Object%20Tracking%20ax1909.12605v1.pdf)
 [[notes]](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/multi_object_tracking/notes/Towards%20Real-Time%20Multi-Object%20Tracking%20ax1909.12605v1.pdf)
+[[code]](https://github.com/Zhongdao/Towards-Realtime-MOT)
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/hardik0/Multi-Object-Tracking-Google-Colab/blob/main/Towards-Realtime-MOT.ipynb)
 
-
+<img src="imgs/Towards_Realtime_MOT_ped1.gif" width="400"/>   <img src="imgs/Towards_Realtime_MOT_ped2.gif" width="400"/>
 
 <a id="association_"></a>
 ### Association
@@ -142,6 +145,16 @@ Collection of papers, code, datasets, and other resources for multi object track
 [[pdf]](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/multi_object_tracking/baseline/Simple%20Online%20and%20Realtime%20Tracking%20ax1707%20icip16.pdf)
 [[notes]](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/multi_object_tracking/notes/Simple%20Online%20and%20Realtime%20Tracking%20ax1707%20icip16.pdf)
 [[code]](https://github.com/abewley/sort)
+* **Simple Online and Realtime Tracking with a Deep Association Metric**
+[icip17]
+[[arxiv]](https://arxiv.org/abs/1703.07402)
+[[code]](https://github.com/nwojke/deep_sort)
+[[code2]](https://github.com/theAIGuysCode/yolov4-deepsort)
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/hardik0/Multi-Object-Tracking-Google-Colab/blob/main/YOLOv4-DeepSORT.ipynb)
+
+<img src="imgs/YOLOv4_DeepSORT_ped1.gif" width="400"/>   <img src="imgs/YOLOv4_DeepSORT_ped2.gif" width="400"/>
+<img src="imgs/YOLOv4_DeepSORT_car.gif" width="400"/>   <img src="imgs/YOLOv4_DeepSORT_2Lane.gif" width="400"/>
+
 * **High-Speed Tracking-by-Detection Without Using Image Information**
 [avss17]
 [[pdf]](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/multi_object_tracking/baseline/High-Speed%20Tracking-by-Detection%20Without%20Using%20Image%20Information%20avss17.pdf)
