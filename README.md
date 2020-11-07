@@ -30,6 +30,11 @@ Collection of papers, code, datasets, and other resources for multi object track
 [[code]](https://github.com/Zhongdao/Towards-Realtime-MOT)
 [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/hardik0/Multi-Object-Tracking-Google-Colab/blob/main/Towards-Realtime-MOT.ipynb)
 
+    * **Towards Real-Time Multi-Object Tracking - Vehicle Tracking**
+    [[Modified version]](https://github.com/hardik0/Towards-Realtime-MOT/tree/detrac)
+    [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/hardik0/Multi-Object-Tracking-Google-Colab/blob/main/Towards-Realtime-MOT-Vehicle-Tracking.ipynb)
+
+
 <img src="imgs/Towards_Realtime_MOT_ped1.gif" width="400"/>   <img src="imgs/Towards_Realtime_MOT_ped2.gif" width="400"/>
 
 <a id="association_"></a>
@@ -69,6 +74,9 @@ Collection of papers, code, datasets, and other resources for multi object track
 [[pdf]](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/multi_object_tracking/deep_learning/Tracking%20without%20bells%20and%20whistles%20ax1903.05625%20iccv19.pdf)
 [[notes]](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/multi_object_tracking/notes/Tracking%20without%20bells%20and%20whistles%20ax1903.05625%20iccv19.pdf)
 [[code]](https://github.com/phil-bergmann/tracking_wo_bnw) [pytorch]
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/hardik0/Multi-Object-Tracking-Google-Colab/blob/main/Tracking-without-bells-and-whistles.ipynb)
+
+    * **Train object detector (Faster-RCNN with FPN) [<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/hardik0/Multi-Object-Tracking-Google-Colab/blob/main/utils/faster_rcnn_fpn_training_mot_17.ipynb)**
 
 <a id="rnn__1"></a>
 ### RNN
