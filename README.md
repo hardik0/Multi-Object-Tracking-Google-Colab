@@ -12,8 +12,8 @@ Collection of papers, code, datasets, and other resources for multi object track
 [[code]](https://github.com/xingyizhou/CenterTrack)[pytorch]
 
 
-<a id="embedding_vector_"></a>
-#### Embedding vector
+<a id="identity_embeddin_g_"></a>
+#### Identity Embedding 
 
 * **MOTS Multi-Object Tracking and Segmentation**
 [cvpr19]
@@ -36,6 +36,18 @@ Collection of papers, code, datasets, and other resources for multi object track
 
 
 <img src="imgs/Towards_Realtime_MOT_ped1.gif" width="400"/>   <img src="imgs/Towards_Realtime_MOT_ped2.gif" width="400"/>
+
+* **A Simple Baseline for Multi-Object Tracking**
+[ax2004]
+[[pdf]](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/multi_object_tracking/joint_detection/A%20Simple%20Baseline%20for%20Multi-Object%20Tracking%202004.01888.pdf)
+[[notes]](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/multi_object_tracking/notes/A%20Simple%20Baseline%20for%20Multi-Object%20Tracking%202004.01888.pdf)
+[[code]](https://github.com/ifzhang/FairMOT)
+
+* **Integrated Object Detection and Tracking with Tracklet-Conditioned Detection**
+[ax1811]
+[[pdf]](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/multi_object_tracking/joint_detection/Integrated%20Object%20Detection%20and%20Tracking%20with%20Tracklet-Conditioned%20Detection%201811.11167.pdf)
+[[notes]](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/multi_object_tracking/notes/Integrated%20Object%20Detection%20and%20Tracking%20with%20Tracklet-Conditioned%20Detection%201811.11167.pdf)
+
 
 <a id="association_"></a>
 ### Association
@@ -99,12 +111,20 @@ Collection of papers, code, datasets, and other resources for multi object track
 
 <a id="unsupervised_learning_"></a>
 ### Unsupervised Learning
+* **Unsupervised Person Re-identification by Deep Learning Tracklet Association**
+[ax1809/eccv18]
+[[pdf]](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/multi_object_tracking/unsupervised/Unsupervised%20Person%20Re-identification%20by%20Deep%20Learning%20Tracklet%20Association%201809.02874%20eccv18.pdf)
+[[notes]](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/multi_object_tracking/notes/Unsupervised%20Person%20Re-identification%20by%20Deep%20Learning%20Tracklet%20Association%201809.02874%20eccv18.pdf)
 * **Tracking by Animation: Unsupervised Learning of Multi-Object Attentive Trackers**
 [ax1809/cvpr19]
 [[pdf]](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/multi_object_tracking/unsupervised/Tracking%20by%20Animation%20Unsupervised%20Learning%20of%20Multi-Object%20Attentive%20Trackers%20cvpr19%20ax1809.03137.pdf)
 [[arxiv]](https://arxiv.org/abs/1809.03137)
 [[notes]](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/multi_object_tracking/notes/Tracking%20by%20Animation%20Unsupervised%20Learning%20of%20Multi-Object%20Attentive%20Trackers%20cvpr19%20ax1809.03137.pdf)
 [[code]](https://github.com/zhen-he/tracking-by-animation)
+* **Simple Unsupervised Multi-Object Tracking**
+[ax2006]
+[[pdf]](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/multi_object_tracking/unsupervised/Simple%20Unsupervised%20Multi-Object%20Tracking%202006.02609.pdf)
+[[notes]](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/multi_object_tracking/notes/Simple%20Unsupervised%20Multi-Object%20Tracking%202006.02609.pdf)
 
 <a id="reinforcement_learning_"></a>
 ### Reinforcement Learning
@@ -134,6 +154,11 @@ Collection of papers, code, datasets, and other resources for multi object track
 [[pdf]](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/multi_object_tracking/network_flow/Deep%20Network%20Flow%20for%20Multi-Object%20Tracking%20cvpr17.pdf)
 [[supplementary]](multi_object_tracking/network_flow/Deep%20Network%20Flow%20for%20Multi-Object%20Tracking%20cvpr17_supplemental.pdf)
 [[notes]](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/multi_object_tracking/notes/Deep%20Network%20Flow%20for%20Multi-Object%20Tracking%20cvpr17.pdf)  
+* **Learning a Neural Solver for Multiple Object Tracking**
+[ax1912/cvpr20]
+[[pdf]](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/multi_object_tracking/network_flow/Learning%20a%20Neural%20Solver%20for%20Multiple%20Object%20Tracking%201912.07515%20cvpr20.pdf)
+[[notes]](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/multi_object_tracking/notes/Learning%20a%20Neural%20Solver%20for%20Multiple%20Object%20Tracking%201912.07515%20cvpr20.pdf)
+[[code]](https://github.com/dvl-tum/mot_neural_solver)
 
 <a id="graph_optimization_"></a>
 ### Graph Optimization
@@ -169,8 +194,16 @@ Collection of papers, code, datasets, and other resources for multi object track
 [[notes]](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/multi_object_tracking/notes/High-Speed%20Tracking-by-Detection%20Without%20Using%20Image%20Information%20avss17.pdf)
 [[code]](https://github.com/bochinski/iou-tracker)
 
+<a id="metrics_"></a>
+### Metrics
+* **HOTA A Higher Order Metric for Evaluating Multi-object Tracking**
+[ijcv20/08]
+[[pdf]](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/multi_object_tracking/metrics/HOTA%20A%20Higher%20Order%20Metric%20for%20Evaluating%20Multi-object%20Tracking%20sl_open_2010_ijcv2008.pdf)
+[[notes]](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/multi_object_tracking/notes/HOTA%20A%20Higher%20Order%20Metric%20for%20Evaluating%20Multi-object%20Tracking%20sl_open_2010_ijcv2008.pdf)
+[[code]](https://github.com/JonathonLuiten/HOTA-metrics)
+
 <a id="dataset_s_"></a>
-## MOT Datasets
+## Multi Object Tracking Datasets
 
 - [IDOT](https://www.cs.uic.edu/Bits/YanziJin)
 - [UA-DETRAC Benchmark Suite](http://detrac-db.rit.albany.edu/)
@@ -200,6 +233,7 @@ Collection of papers, code, datasets, and other resources for multi object track
 - [CityFlow](https://www.aicitychallenge.org/) [pole mounted] [intersections] [vehicles] [re-id]  [cvpr19]
 - [UAVDT - The Unmanned Aerial Vehicle Benchmark: Object Detection and Tracking](https://sites.google.com/site/daviddo0323/projects/uavdt) [uav] [intersections/highways] [vehicles]  [eccv18]
 - [JackRabbot Dataset ](https://jrdb.stanford.edu/)  [RGBD] [head-on][indoor/outdoor][stanford]
+- [TAO: A Large-Scale Benchmark for Tracking Any Object ](http://taodataset.org/)  [eccv20] [[code]](https://github.com/TAO-Dataset/tao)
 
 ## Acknowledgements
 
