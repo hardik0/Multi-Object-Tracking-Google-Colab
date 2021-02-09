@@ -10,6 +10,12 @@ Collection of papers, code, datasets, and other resources for multi object track
 [[pdf]](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/multi_object_tracking/joint_detection/Tracking%20Objects%20as%20Points%202004.01177.pdf)
 [[notes]](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/multi_object_tracking/notes/Tracking%20Objects%20as%20Points%202004.01177.pdf)
 [[code]](https://github.com/xingyizhou/CenterTrack)[pytorch]
+* **DEFT: Detection Embeddings for Tracking**
+[ax2102] 
+[[arxiv]](http://arxiv.org/abs/2102.02267)
+[pdf]
+[notes]
+[[code]](https://github.com/MedChaabane/DEFT)
 
 
 <a id="identity_embeddin_g_"></a>
