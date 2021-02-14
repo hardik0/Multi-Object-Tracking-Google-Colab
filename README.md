@@ -5,18 +5,24 @@ Collection of papers, code, datasets, and other resources for multi object track
 <a id="joint_detection_"></a>
 ### Joint-Detection
 
-* **Tracking Objects as Points**
+* **CenterTrack - Tracking Objects as Points**
 [ax2004]
 [[pdf]](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/multi_object_tracking/joint_detection/Tracking%20Objects%20as%20Points%202004.01177.pdf)
 [[notes]](https://github.com/abhineet123/Deep-Learning-for-Tracking-and-Detection/blob/master/multi_object_tracking/notes/Tracking%20Objects%20as%20Points%202004.01177.pdf)
-[[code]](https://github.com/xingyizhou/CenterTrack)[pytorch]
+[[code]](https://github.com/xingyizhou/CenterTrack) [pytorch]
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/hardik0/Multi-Object-Tracking-Google-Colab/blob/main/CenterTrack-Tracking-Objects-as-Points.ipynb)
+<img src="imgs/CenterTrack_nuscenes_3d.gif" width="400"/>
+
 * **DEFT: Detection Embeddings for Tracking**
 [ax2102] 
 [[arxiv]](http://arxiv.org/abs/2102.02267)
 [pdf]
 [notes]
-[[code]](https://github.com/MedChaabane/DEFT)
+[[code]](https://github.com/MedChaabane/DEFT) [pytorch]
+[<img src="https://colab.research.google.com/assets/colab-badge.svg" align="center">](https://colab.research.google.com/github/hardik0/Multi-Object-Tracking-Google-Colab/blob/main/DEFT-Detection-Embeddings-for-Tracking.ipynb)
 
+<img src="imgs/DEFT_mot17.gif" width="400"/>   <img src="imgs/DEFT_nuscenes.gif" width="400"/>
+<p align="center"><img src="imgs/DEFT_kitti.gif"/></p>
 
 <a id="identity_embeddin_g_"></a>
 #### Identity Embedding 
